@@ -53,6 +53,7 @@ $ npm install
 # Ejecutamos la aplicacion
 $ npm run dev
 ```
+![Diagrama MVC](MVC2.jpg "Diagrama MVC")
 
 ## Despliegue de la app en Podman
 
